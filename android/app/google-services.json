@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805447426865",
+    "project_id": "dailygrid-cfb85",
+    "storage_bucket": "dailygrid-cfb85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805447426865:android:fc42889c5fe85678f6c610",
+        "android_client_info": {
+          "package_name": "com.santos.dailygrid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805447426865-slahdb4eliejev8btfqa6lr7gjeeaf7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQkDZqcSAk7-mfNSGk1KUSGQSeoDN0-lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805447426865-slahdb4eliejev8btfqa6lr7gjeeaf7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
